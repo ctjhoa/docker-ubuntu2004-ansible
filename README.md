@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.com/geerlingguy/docker-ubuntu2004-ansible.svg?branch=master)](https://travis-ci.com/geerlingguy/docker-ubuntu2004-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-ubuntu2004-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-ubuntu2004-ansible/)
 
 Ubuntu 20.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing.
+It comes with an `ansible` user with sudo privileged.
 
 ## Tags
 
